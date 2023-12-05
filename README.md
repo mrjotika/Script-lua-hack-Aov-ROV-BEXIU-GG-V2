@@ -14,8 +14,8 @@ enjoy details guide here https://is.gd/ibexiu
 https://is.gd/ibexiu
 ```
 ## **Download release**
+https://github.com/mrjotika/Script-lua-hack-Aov-ROV-BEXIU-GG-V2/releases
 
-https://github.com/mrjotika/Script-lua-hack-AOV-LQM-64-BEXIU-GG-V2/releases
 
 some screenshots
 
