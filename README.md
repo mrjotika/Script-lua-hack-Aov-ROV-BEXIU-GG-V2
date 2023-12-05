@@ -6,7 +6,6 @@ https://is.gd/ibexiu
 ## **Download release**
 https://github.com/mrjotika/Script-lua-hack-Aov-ROV-BEXIU-GG-V2/releases
 
-some screenshots
 
 some screenshots
 
